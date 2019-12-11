@@ -15,6 +15,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm run react-start
 ```
 
-#### Live:https://blog-site-na.herokuapp.com/
+#### Live: https://blog-site-na.herokuapp.com/
 
 
