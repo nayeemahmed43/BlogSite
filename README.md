@@ -6,10 +6,10 @@
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone 
-> cd ReduxSimpleStarter
+> git clone https://github.com/nayeemahmed43/BlogSite.git
+> cd BlogSite
 > npm install
-> npm start
+> npm run react-start
 ```
 
 
